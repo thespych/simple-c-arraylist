@@ -1,2 +1,3 @@
 # simple-c-arraylist
-A simple ArrayList for C11 standards
+
+Super simple arraylist implementation for C11. Originally wrote this because I needed it for a school project.
